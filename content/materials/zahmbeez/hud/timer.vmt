@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "zahmbeez/hud/timer"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+	"$ignorez" 1
+}

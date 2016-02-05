@@ -1,0 +1,13 @@
+"Gamemode"
+{
+	"name"		"Zahmbeez! New"
+	"version"	"SVN"
+
+	"author_name"	"Modulus Software"
+	"author_email"	""
+	"author_url"	""
+	
+	"icon"		""
+	"info"		""
+	"hide"		"0"
+}

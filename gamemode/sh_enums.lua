@@ -1,0 +1,32 @@
+
+// teams
+TEAM_PLAYERS				= 201;
+TEAM_RAVENS					= 202;
+
+// view modes
+VIEWMODE_TOPDOWN			= 1;
+VIEWMODE_SHOLDER			= 2;
+
+// round states
+ROUND_WAITING 		= 1;
+ROUND_INTRO 		= 2;
+ROUND_ACTIVE 		= 3;
+ROUND_OUTRO 		= 4;
+
+// radar types
+RADAR_NONE			= 0;
+RADAR_ENEMY			= 1;
+RADAR_FRIENDLY		= 2;
+RADAR_OBJECTIVE		= 3;
+
+// buff types
+BUFF_NONE			= 0;
+BUFF_FIRE			= 1;
+BUFF_ICE			= 2;
+BUFF_POISON			= 3;
+
+// classes
+CLASS_CIVILIAN		= 0;
+CLASS_LEATHERNECK	= 1;
+CLASS_MACGYVER		= 2;
+CLASS_ERRANDBOY		= 3;
